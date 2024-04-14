@@ -4,6 +4,10 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-image: url('nss_hq.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 nav {
