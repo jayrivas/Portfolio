@@ -98,8 +98,8 @@ header {
 #logo {
 	display:block;
 	background:url(../images/logo.png) 0 0 no-repeat;
-	width:276px;
-	height:94px;
+	max-width: 100%;
+	height: auto;
 	text-indent:-9999px
 }
 #search {
