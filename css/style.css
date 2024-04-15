@@ -96,11 +96,11 @@ header {
 	height:645px
 }
 #logo {
-	display:block;
+	/*display:block;*/
 	background:url(../images/logo.png) 0 0 no-repeat;
 	max-width: 100%;
 	height: auto;
-	text-indent:-9999px
+	/*text-indent:-9999px*/
 }
 #search {
 	float:right;
